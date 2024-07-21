@@ -1,4 +1,4 @@
-**Linear Search Algorithm**
+##Linear Search Algorithm##
 **Introduction**
 Linear search, also known as sequential search, is the simplest search algorithm. It works by iterating through each element of a list until the desired element (key) is found or the end of the list is reached.
 
